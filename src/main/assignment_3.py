@@ -69,3 +69,4 @@ def positive_definite(A):
     
     if np.all(eigenvalues) > 0:
         return True
+    
